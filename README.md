@@ -1,2 +1,2 @@
 # koken-wayli
-Mis of koken themes
+Mix of koken themes
