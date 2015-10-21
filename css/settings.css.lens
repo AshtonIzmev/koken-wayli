@@ -10,6 +10,7 @@ body {
 	-webkit-font-smoothing: subpixel-antialiased;
 	-webkit-text-size-adjust: 100%;
 	-moz-osx-font-smoothing: $firefox_alias;
+	padding: 30px 20px 100px 20px;
 }
 
 img {
@@ -484,7 +485,7 @@ ul#pag {
 div.item {
 	margin:0 auto;
 	width:300px;
-	margin-bottom:40px;
+	padding:4px;
 }
 
 div.item .info {

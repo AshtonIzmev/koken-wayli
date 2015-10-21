@@ -154,9 +154,10 @@ OKOK
 
 
 	<div id="grid" class="row">
-		<div class="one-third column elem"></div>
-		<div class="one-third column elem"></div>
-		<div class="one-third column elem"></div>
+		<div class="one-forth column elem"></div>
+		<div class="one-forth column elem"></div>
+		<div class="one-forth column elem"></div>
+		<div class="one-forth column elem"></div>
 	</div>
 
 	<koken:loop>
